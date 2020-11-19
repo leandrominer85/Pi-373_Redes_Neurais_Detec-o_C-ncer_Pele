@@ -1,1 +1,1 @@
-# Pi-373_Redes_Neurais_Detec-o_C-ncer_Pele
+# Pi-373_Redes_Neurais_Detec-o_Cancer_Pele
